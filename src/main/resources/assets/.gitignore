@@ -1,0 +1,17 @@
+# We've 'borrowed' 8x8 pixels from vanilla block textures for each of the below.
+# Under no circumstances should these be added to the repo *until* we have
+# re-created them from scratch.
+#
+/ap_skyblock_essentials/textures/item/mini_andesite.png
+/ap_skyblock_essentials/textures/item/mini_basalt.png
+/ap_skyblock_essentials/textures/item/mini_blackstone.png
+/ap_skyblock_essentials/textures/item/mini_calcite.png
+/ap_skyblock_essentials/textures/item/mini_deepslate.png
+/ap_skyblock_essentials/textures/item/mini_diorite.png
+/ap_skyblock_essentials/textures/item/mini_dripstone.png
+/ap_skyblock_essentials/textures/item/mini_end_stone.png
+/ap_skyblock_essentials/textures/item/mini_granite.png
+/ap_skyblock_essentials/textures/item/mini_netherrack.png
+/ap_skyblock_essentials/textures/item/mini_stone.png
+/ap_skyblock_essentials/textures/item/mini_tuff.png
+
