@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ap_skyblock_essentials:item/mini_diorite"
+  }
+}
